@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\desktop\git_projects\micro_robot_csv_linked_list\linked_list\linked_list\linked_list.h(17): warning C4091: 'typedef ': 변수를 선언하지 않으면 'saveLogStruct' 왼쪽은 무시됩니다.
+  linked_list.vcxproj -> C:\Users\user\Desktop\git_projects\micro_robot_csv_linked_list\linked_list\Debug\linked_list.exe
+  linked_list.vcxproj -> C:\Users\user\Desktop\git_projects\micro_robot_csv_linked_list\linked_list\Debug\linked_list.pdb (Partial PDB)
