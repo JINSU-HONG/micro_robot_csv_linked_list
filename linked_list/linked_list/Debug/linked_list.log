@@ -1,4 +1,5 @@
 ﻿  main.cpp
-c:\users\user\desktop\git_projects\micro_robot_csv_linked_list\linked_list\linked_list\linked_list.h(17): warning C4091: 'typedef ': 변수를 선언하지 않으면 'saveLogStruct' 왼쪽은 무시됩니다.
-  linked_list.vcxproj -> C:\Users\user\Desktop\git_projects\micro_robot_csv_linked_list\linked_list\Debug\linked_list.exe
-  linked_list.vcxproj -> C:\Users\user\Desktop\git_projects\micro_robot_csv_linked_list\linked_list\Debug\linked_list.pdb (Partial PDB)
+C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\linked_list\main.cpp(45,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\linked_list\main.cpp(47,10): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\linked_list\main.cpp(67,27): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  linked_list.vcxproj -> C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\Debug\linked_list.exe
