@@ -21,6 +21,15 @@
 #define PROCESS_INTERVAL  50
 #define MODULE_COMMUN_INTERVAL  500
 
+
+#define dataTypeInt 1
+#define dataTypeFloat 2
+#define dataTypeBool 3
+#define dataTypeDummy 4
+
+#define MAXDATANUM 1000
+#define MAXLOADDATANUM 50000
+
 union float2int {
 	uint16_t int_16[2];
 	float f;
@@ -126,3 +135,13 @@ struct sys_status {
 };
 
 ///////////// END OF SYSTEM STAUTS
+
+typedef struct tagNode {
+	char* dataAdd;
+	struct tagNode* NextNode;
+}NODE;
+
+typedef struct tagQueue {
+	NODE* Front;
+	NODE* Rear;
+}QUEUE;

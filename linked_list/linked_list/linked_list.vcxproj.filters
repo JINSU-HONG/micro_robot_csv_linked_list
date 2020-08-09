@@ -18,15 +18,21 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="linked_list.cpp">
+    <ClCompile Include="test_profile_csv.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="log_csv.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="linked_list.h">
+    <ClInclude Include="data_type.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="data_type.h">
+    <ClInclude Include="log_csv.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="test_profile_csv.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

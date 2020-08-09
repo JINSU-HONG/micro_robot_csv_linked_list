@@ -1,5 +1,4 @@
 ﻿  main.cpp
-C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\linked_list\main.cpp(45,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\linked_list\main.cpp(47,10): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\linked_list\main.cpp(67,27): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\linked_list\main.cpp(69,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\linked_list\main.cpp(71,10): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
   linked_list.vcxproj -> C:\Users\jinsu.hong\Desktop\projects\micro_robot_csv_linked_list\linked_list\Debug\linked_list.exe
